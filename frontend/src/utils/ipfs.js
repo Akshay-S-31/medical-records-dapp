@@ -11,7 +11,7 @@
 import axios from "axios";
 
 // Backend API base URL
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://medical-records-dapp.onrender.com/api";
 
 /**
  * uploadToIPFS(encryptedString, filename)
